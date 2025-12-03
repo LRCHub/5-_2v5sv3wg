@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Grow Old With Me",
+  "base_artist": "She's",
+  "createdAt": "2025-12-03T13:30:11.266057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "SHE'S",
+      "has_synced": true,
+      "path": "select/01_Grow_Old_With_Me_SHE'S.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/02_Grow_Old_With_Me_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Grow Old with Me",
+      "artist": "Sunny Sweeney",
+      "has_synced": true,
+      "path": "select/03_Grow_Old_with_Me_Sunny_Sweeney.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/04_Grow_Old_With_Me_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "Lennon, John",
+      "has_synced": true,
+      "path": "select/05_Grow_Old_With_Me_Lennon,_John.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/06_Grow_Old_With_Me_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "Damian Wilson",
+      "has_synced": true,
+      "path": "select/07_Grow_Old_With_Me_Damian_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/08_Grow_Old_With_Me_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/09_Grow_Old_With_Me_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "Peter Breinholt",
+      "has_synced": true,
+      "path": "select/10_Grow_Old_With_Me_Peter_Breinholt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Grow Old with Me",
+      "artist": "Tom Odell",
+      "has_synced": false,
+      "path": "select/11_Grow_Old_with_Me_Tom_Odell.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "Postal Service",
+      "has_synced": true,
+      "path": "select/12_Grow_Old_With_Me_Postal_Service.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dakota: Grow Old With Me",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/13_Dakota__Grow_Old_With_Me_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/14_Grow_Old_With_Me_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "Tom Odell",
+      "has_synced": true,
+      "path": "select/15_Grow_Old_With_Me_Tom_Odell.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/16_Grow_Old_With_Me_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/17_Grow_Old_With_Me_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Grow Old With Me",
+      "artist": "Mason Jennings",
+      "has_synced": false,
+      "path": "select/18_Grow_Old_With_Me_Mason_Jennings.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Grow Old With Me",
+      "artist": "SHE'S",
+      "has_synced": false,
+      "path": "select/pl_01_Grow_Old_With_Me_SHE'S.txt"
+    }
+  ]
+}
